@@ -72,10 +72,3 @@ This project was developed as part of a Hackathon (see `hack.pptx`). We are curr
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new features or want to improve the AR functionality, feel free to fork the repo and submit a pull request.
-
-### Why this is good for your Resume:
-1. **Clear Structure:** It shows you understand the standard software development lifecycle (Installation, Setup, Structure).
-2. **Technical Depth:** It mentions specific technologies (Computer Vision, Generative AI, API handling) that high-paying tech companies look for.
-3. **Professionalism:** Including the "In Progress" section shows you are honest about your work and actively developing your skills.
-
-```
